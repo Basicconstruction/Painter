@@ -1,0 +1,7 @@
+C:\Users\betha\source\repos\Painter\Reverse\bin\Debug\Reverse.exe
+C:\Users\betha\source\repos\Painter\Reverse\bin\Debug\Reverse.pdb
+C:\Users\betha\source\repos\Painter\Reverse\obj\Debug\Reverse.csproj.AssemblyReference.cache
+C:\Users\betha\source\repos\Painter\Reverse\obj\Debug\Reverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\betha\source\repos\Painter\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\betha\source\repos\Painter\Reverse\obj\Debug\Reverse.exe
+C:\Users\betha\source\repos\Painter\Reverse\obj\Debug\Reverse.pdb
